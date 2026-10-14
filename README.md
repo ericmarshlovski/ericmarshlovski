@@ -1,7 +1,5 @@
 ## silav..
 
-bager · komunar
-
 ### projeyê min
 
 **[StêrkCloud](https://sterkcloud.org)** · arşîva muzîka kurdî û şoreşgerî
