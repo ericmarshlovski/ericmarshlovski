@@ -1,3 +1,5 @@
+<img src="f91.png" width="200" align="right" alt="casio f-91w">
+
 ## silav..
 
 ### projeyê min
@@ -11,3 +13,5 @@ no third-party trackers, listens are anonymous. also reachable over tor.
 **botên telegramê** · muzîk û etîket
 
 two small telegram bots: one serves music, one tags and sorts.
+
+kod li vir nîne — [codeberg.org/bager](https://codeberg.org/bager)
