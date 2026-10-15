@@ -1,4 +1,4 @@
-<img src="f91.png" width="130" align="right" alt="casio f-91w">
+<img src="f91.png" width="90" align="right" alt="casio f-91w">
 
 ## silav..
 
